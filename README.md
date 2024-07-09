@@ -35,14 +35,14 @@ The key columns in the dataset are:
 	    •	Overall product sales comparison 
       •	Product Sales Comparison for Each location
 
-# 3. Profit Increase Prediction (if applicable):
+# 3. Profit Increase Prediction:
 
 -	Utilize predictive modeling techniques to forecast future profits.
 -	Explore factors contributing to profitability.
 -	Provide recommendations on strategies to increase profit margins.
 -	identify which product can increase profit.
 
-# 4. Loss Mitigation (if applicable):
+# 4. Loss Mitigation:
 
 -	Analyze factors contributing to losses for each product/service.
 -	Develop strategies to minimize or eliminate losses.
